@@ -17,7 +17,7 @@ we have are:
 
 1. There will be no budget limit on the rental fees
 2. The new restaurant need to be setup in a location that can offer a maximum opportunity. This constitutes:
-    2.1. Moderate level of competition among other chinese restaurants
+    2.1. Moderate level of competition among other restaurants
     2.2. A place that can be easily accessible from main tourism areas
 
 ## Required Data
@@ -27,5 +27,19 @@ as the author may uncover other information that is needed to solve the said pro
 
 1. Foursquare venues data
 2. Neighborhood in Barcelona
-3. Geographical location in Barcelona
-4. Map of tourism spot in Barcelona
+3. Geographical location of Barcelona
+
+### Foursquare venues data
+
+From this sets of data, we will be extracting:
+1. List of restaurants, bars, cafes, and anything that is related to food.
+2. Some attractions such as park, museum, theater.
+
+### Neighborhood in Barcelona
+
+In this sets of data, we will be extracting local neighborhood in Barcelona and use Foursquare venues data to
+map how much venues are there in those neighborhood area.
+
+### Geographical location of Barcelona
+
+This data will be useful for visualization purpose
