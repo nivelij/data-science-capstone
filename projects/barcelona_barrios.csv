@@ -1,0 +1,76 @@
+,District,Barrio,Latitude,Longitude
+0,Ciutat Vella,La Barceloneta,41.3806533,2.1899274
+1,Ciutat Vella,El Gòtic,41.3833947,2.1769119
+2,Ciutat Vella,El Raval,41.3795176,2.1683678
+3,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",41.3883219,2.1774107
+4,Eixample,L'Antiga Esquerra de l'Eixample,41.39,2.155
+5,Eixample,La Nova Esquerra de l'Eixample,41.383389,2.149
+6,Eixample,Dreta de l'Eixample,41.3950373,2.1672069
+7,Eixample,Fort Pienc,41.3959246,2.1823245
+8,Eixample,Sagrada Família,41.4034789,2.174410333009705
+9,Eixample,Sant Antoni,41.3800525,2.1633268
+10,Sants-Montjuïc,La Bordeta,41.3691417,2.1373733
+11,Sants-Montjuïc,la Font de la Guatlla,41.3707824,2.1446756
+12,Sants-Montjuïc,Hostafrancs,41.3752539,2.1433476
+13,Sants-Montjuïc,la Marina de Port,41.3602964,2.1375842
+14,Sants-Montjuïc,la Marina del Prat Vermell,41.3538419,2.1423184
+15,Sants-Montjuïc,El Poble-sec,41.3749795,2.1605721
+16,Sants-Montjuïc,Sants,41.3753288,2.1349117
+17,Sants-Montjuïc,Sants-Badal,41.375466,2.1277096
+18,Sants-Montjuïc,Montjuïc,41.3647625,2.154233
+19,Sants-Montjuïc,Zona Franca - Port,41.33600105,2.140664726682983
+20,Les Corts,les Corts,41.385244,2.1328626
+21,Les Corts,la Maternitat i Sant Ramon,41.3820766,2.1254831
+22,Les Corts,Pedralbes,41.3901401,2.112218
+23,Sarrià-Sant Gervasi,El Putget i Farró,41.40731705,2.143424283829363
+24,Sarrià-Sant Gervasi,Sarrià,41.399373,2.1215125
+25,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,41.4059829,2.1334046
+26,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,41.39780705,2.1433915893890703
+27,Sarrià-Sant Gervasi,les Tres Torres,41.3976108,2.1311837
+28,Sarrià-Sant Gervasi,"Vallvidrera, Tibidabo i les Planes",41.42738195,2.091489443045365
+29,Gràcia,Vila de Gràcia,41.4031783,2.1571662
+30,Gràcia,el Camp d'en Grassot i Gràcia Nova,41.4045889,2.1667806
+31,Gràcia,la Salut,41.4428167,2.2246942
+32,Gràcia,el Coll,56.62701825,-6.57012642163575
+33,Gràcia,Vallcarca i els Penitents,41.4155257,2.1422431
+34,Horta-Guinardó,El Baix Guinardó,41.4114374,2.1686512
+35,Horta-Guinardó,El Guinardó,41.4177335,2.1736316
+36,Horta-Guinardó,Can Baró,41.4160925,2.1624018
+37,Horta-Guinardó,El Carmel,39.9788017,-86.1189257
+38,Horta-Guinardó,la Font d'en Fargues,41.425788,2.1659152
+39,Horta-Guinardó,Horta,38.5368032,-28.630109
+40,Horta-Guinardó,la Clota,45.1186111,-0.1469444
+41,Horta-Guinardó,Montbau,41.4295504,2.1445379
+42,Horta-Guinardó,Sant Genís dels Agudells,41.4264567,2.1374905
+43,Horta-Guinardó,la Teixonera,41.423173,2.1459698
+44,Horta-Guinardó,La Vall d'Hebron,41.4249128,2.1423965
+45,Nou Barris,Can Peguera,41.4348568,2.1657848
+46,Nou Barris,Canyelles,41.2858273,1.7222743
+47,Nou Barris,Ciutat Meridiana,41.4609185,2.1745668
+48,Nou Barris,La Guineueta,41.4403026,2.1704023
+49,Nou Barris,Porta,42.4228683,9.3531871
+50,Nou Barris,La Prosperitat,41.4423335,2.1794381
+51,Nou Barris,les Roquetes,41.4477984,2.1762713
+52,Nou Barris,Torre Baró,41.4580108,2.1839863
+53,Nou Barris,la Trinitat Nova,41.4493923,2.1845111
+54,Nou Barris,El Turó de la Peira,41.4323672,2.1690681
+55,Nou Barris,Vallbona,41.5194769,1.7082922
+56,Nou Barris,Verdum,-4.946151,-44.8872207
+57,Nou Barris,Vilapicina i la Torre Llobeta,41.4300186,2.1760694
+58,Sant Andreu,Baró de Viver,41.4499467,2.1995389
+59,Sant Andreu,Bon Pastor,41.4361096,2.2048066
+60,Sant Andreu,El Congrés i els Indians,41.423784,2.180821600067076
+61,Sant Andreu,Navas,46.1756,3.1107
+62,Sant Andreu,Sant Andreu de Palomar,41.4367844,2.1908641
+63,Sant Andreu,La Sagrera,41.4237499,2.189582
+64,Sant Andreu,Trinitat Vella,41.4491496,2.1933756
+65,Sant Martí,El Besòs i el Maresme,41.4149787,2.2138765
+66,Sant Martí,el Clot,41.4102828,2.1867259
+67,Sant Martí,El Camp de l'Arpa del Clot,41.4107542,2.1828156
+68,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,41.4052285,2.2133522
+69,Sant Martí,el Parc i la Llacuna del Poblenou,41.4007334,2.191342
+70,Sant Martí,Poblenou,41.400527,2.2017292
+71,Sant Martí,Provençals del Poblenou,41.4119484,2.2041249
+72,Sant Martí,Sant Martí de Provençals,41.4165186,2.1989683
+73,Sant Martí,La Verneda i la Pau,41.4232198,2.202940152045822
+74,Sant Martí,la Vila Olímpica del Poblenou,41.3898682,2.1968459
