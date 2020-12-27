@@ -15347,6 +15347,12 @@ Successfully installed bs4-0.0.1
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>We are almost ready to start clustering the data. 1 challenge that we need to overcome next is to identify the number of clusters. The problem with our use case is that there is no logical number that we can use. Therefore we need to utilize the elbow method to identify the best number of clusters based on the dataset that we have. What we are going to do next is to score our clustering models from 1 to 20 clusters.</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -15414,6 +15420,12 @@ Successfully installed bs4-0.0.1
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The elbow method describes the best number of clusters found when there are no significant changes of the score observed. From the chart above, we can see that there are about 10 points move (~ -15 to -4) when the number of clusters move from 0 to 8, and 2 points move (-4 to -2) when the number of clusters move from 8 to 20. Based on the elbow method, this is the best number of clusters we can use.</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -15518,6 +15530,12 @@ Successfully installed bs4-0.0.1
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>It does not really give us good information on what this information entails, but 1 thing for sure is that the data are heavily distributed within 3 clusters, namely cluster-0, cluster-4, and cluster-7. If we merge this information with the original barrio dataset and plot the visualization over the map, this is what we get.</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -15595,6 +15613,12 @@ Successfully installed bs4-0.0.1
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>We now have a good vision on how the clustering looks like, as the outcome of the K-Means algorithm. Let us now see what are the characteristics of each cluster, by analyzing the top restaurant category on each cluster, as well as giving a preliminary label whether the restaurant should be opened in any of the barrio within the cluster</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -16049,6 +16073,12 @@ Successfully installed bs4-0.0.1
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Let's cross check between cluster map and attractions heat map, and see what we got</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -16108,7 +16138,7 @@ Successfully installed bs4-0.0.1
 <li>El clot</li>
 <li>La Vila Olimpica del Poblenou</li>
 </ol>
-<p>The next s</p>
+<p>Let's cross check between chinese restaurants map and attractions heat map</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
