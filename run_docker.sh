@@ -1,1 +1,1 @@
-docker run -p 8888:8888 -v ${PWD}/notebooks:/home/jovyan/workspace --rm jupyter/datascience-notebook
+docker run -p 8888:8888 -v ${PWD}/projects:/home/jovyan/workspace --rm jupyter/datascience-notebook
